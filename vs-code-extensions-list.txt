@@ -1,0 +1,24 @@
+# VS Code Extensions 
+# version 1.3
+# List updated January 21, 2025
+#
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+streetsidesoftware.code-spell-checker
+anteprimorac.html-end-tag-labels
+n3rds-inc.image
+kisstkondoros.vscode-gutter-preview
+green-csv.img-contextual
+tyriar.lorem-ipsum
+yzhang.markdown-all-in-one
+yzane.markdown-pdf
+yutengjing.open-in-external-app
+johnpapa.vscode-peacock
+kelvin.vscode-sshfs
+qcz.text-power-tools
+vscode-icons-team.vscode-icons
+celianriboulet.webvalidator
+wordpressplayground.wordpress-playground
+yandeu.five-server
+esbenp.prettier-vscode
+tomoki1207.pdf
