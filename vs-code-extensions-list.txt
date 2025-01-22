@@ -1,24 +1,66 @@
-# VS Code Extensions 
-# version 1.3
-# List updated January 21, 2025
+# VS Code Extensions for HTML & CSS Design
+# version 1.31
+# List updated January 22, 2025
 #
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 streetsidesoftware.code-spell-checker
 anteprimorac.html-end-tag-labels
-n3rds-inc.image
-kisstkondoros.vscode-gutter-preview
-green-csv.img-contextual
 tyriar.lorem-ipsum
 yzhang.markdown-all-in-one
-yzane.markdown-pdf
 yutengjing.open-in-external-app
-johnpapa.vscode-peacock
 kelvin.vscode-sshfs
 qcz.text-power-tools
 vscode-icons-team.vscode-icons
-celianriboulet.webvalidator
-wordpressplayground.wordpress-playground
-yandeu.five-server
+
+# ===== IMAGE TOOLS ===== #
+
+n3rds-inc.image
+# Convert / Resize images (webp, avif, jpg, png)
+
+kisstkondoros.vscode-gutter-preview
+# Shows image preview in the gutter and on hover
+
+green-csv.img-contextual
+# Adds to contextual menu encode an image to base 64 text and copy into the clipboard. Replace the img src value to embed the image into the HTML or CSS.
+
+
+
+# ===== WORKSPACE COLORS ===== #
+
+johnpapa.vscode-peacock
+# Let you assign a color to the VS Code window so you can tell different projects apart more easily.
+
+
+
+
+# ===== CODE FORMATTER ===== #
+
 esbenp.prettier-vscode
+# Rewrites your code to make it easier to read
+
+
+# ===== HTML & CSS VALIDATION ===== #
+
+celianriboulet.webvalidator
+# Adds validator tool at bottom left
+
+
+# ===== PDF RELATED TOOLS ===== #
+
 tomoki1207.pdf
+# Display pdf file in VSCode
+
+yzane.markdown-pdf
+# Convert Markdown to PDF
+
+
+
+# ===== SERVER SOFTWARE ===== #
+
+wordpressplayground.wordpress-playground
+# Lets you view rendered PHP files
+# There must be an index.php file in the root folder, otherwise the plugin will install Wordpress into the folder.
+
+yandeu.five-server
+# Basic HTTP server
