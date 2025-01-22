@@ -11,7 +11,12 @@ yzhang.markdown-all-in-one
 yutengjing.open-in-external-app
 kelvin.vscode-sshfs
 qcz.text-power-tools
+
+
+# ===== INTERFACE ICONS ===== #
+
 vscode-icons-team.vscode-icons
+# Adds recognizable icons for different file types
 
 # ===== IMAGE TOOLS ===== #
 
