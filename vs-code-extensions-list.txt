@@ -32,6 +32,9 @@ vscode-icons-team.vscode-icons
 n3rds-inc.image
 # Convert / Resize images (webp, avif, jpg, png)
 
+tyriar.luna-paint
+# "Photoshop Lite" to edit images directly inside VS Code 
+
 kisstkondoros.vscode-gutter-preview
 # Shows image preview in the gutter and on hover
 
